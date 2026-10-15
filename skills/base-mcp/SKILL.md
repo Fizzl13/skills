@@ -7,6 +7,8 @@ version: 0.1.0
 
 # Base MCP
 
+> **Deprecated:** this skill has been renamed to `wallet-mcp`. Install with `npx skills add base/skills --skill wallet-mcp`. This copy still works and will be removed later.
+
 > [!IMPORTANT]
 > ## Run onboarding at the start of every conversation that touches Base MCP
 >
